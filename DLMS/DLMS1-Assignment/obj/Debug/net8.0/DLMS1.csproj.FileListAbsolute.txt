@@ -1,0 +1,14 @@
+D:\.NET\DLMS1\bin\Debug\net8.0\DLMS1.exe
+D:\.NET\DLMS1\bin\Debug\net8.0\DLMS1.deps.json
+D:\.NET\DLMS1\bin\Debug\net8.0\DLMS1.runtimeconfig.json
+D:\.NET\DLMS1\bin\Debug\net8.0\DLMS1.dll
+D:\.NET\DLMS1\bin\Debug\net8.0\DLMS1.pdb
+D:\.NET\DLMS1\obj\Debug\net8.0\DLMS1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DLMS1\obj\Debug\net8.0\DLMS1.AssemblyInfoInputs.cache
+D:\.NET\DLMS1\obj\Debug\net8.0\DLMS1.AssemblyInfo.cs
+D:\.NET\DLMS1\obj\Debug\net8.0\DLMS1.csproj.CoreCompileInputs.cache
+D:\.NET\DLMS1\obj\Debug\net8.0\DLMS1.dll
+D:\.NET\DLMS1\obj\Debug\net8.0\refint\DLMS1.dll
+D:\.NET\DLMS1\obj\Debug\net8.0\DLMS1.pdb
+D:\.NET\DLMS1\obj\Debug\net8.0\DLMS1.genruntimeconfig.cache
+D:\.NET\DLMS1\obj\Debug\net8.0\ref\DLMS1.dll
